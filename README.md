@@ -26,7 +26,7 @@ Be more mindful with media queries as I am creating a project as it lessens the 
   
   <tr>
     <td width="33.3%" valign="top">
-<a target="_blank" href="https://tidal-relieved-parent.glitch.me/"> D&D 5e SpellList"</a>
+<a target="_blank" href="https://tidal-relieved-parent.glitch.me/"> D&D 5e SpellList</a>
         <br />
       <a target="_blank" href="https://tidal-relieved-parent.glitch.me/">
             <img src="https://github.com/PiantaSE/PiantaSE/raw/main/images/dnd.gif" width="100%"  alt="D&D 5e SpellList"/>
