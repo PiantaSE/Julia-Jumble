@@ -7,7 +7,7 @@ A simple matching card with pictures of my cat Julia as the front of the cards!
 
 One of my first projects using HTML5, CSS3, and Javascript to get my hands on the keyboard.
 
-## Optimizations
+## Optimizations:
 With more time, I would like to add more pictures of Julia so there is more variety. I would also like to completely revamp the randomness implemented from Javascript that is used to choose what pictures of Julia to use for the cards. Media queries would be a nice touch too.
 
 ## Lessons Learned:
@@ -18,7 +18,7 @@ Be more mindful with media queries as I am creating a project as it lessens the 
 
 
 
-## More Projects
+## More Projects:
 
 
 
